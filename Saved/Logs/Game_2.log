@@ -1,0 +1,1008 @@
+﻿Log file open, 05/22/18 16:06:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-743086819) SRandInit(-743086819).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.152113
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Lag/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.22-15.06.12:654][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.22-15.06.12:654][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.22-15.06.12:663][  0]LogInit: Computer: FMK-90008899
+[2018.05.22-15.06.12:663][  0]LogInit: User: student
+[2018.05.22-15.06.12:663][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.22-15.06.12:663][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2018.05.22-15.06.12:663][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.22-15.06.12:663][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.22-15.06.12:663][  0]LogMemory: Process Physical Memory: 272.45 MB used, 272.45 MB peak
+[2018.05.22-15.06.12:663][  0]LogMemory: Process Virtual Memory: 271.80 MB used, 271.80 MB peak
+[2018.05.22-15.06.12:663][  0]LogMemory: Physical Memory: 7830.98 MB used,  8508.10 MB free, 16339.08 MB total
+[2018.05.22-15.06.12:663][  0]LogMemory: Virtual Memory: 646.20 MB used,  8508.10 MB free, 134217728.00 MB total
+[2018.05.22-15.06.12:741][  0]LogInit: Using OS detected language (sk-SK).
+[2018.05.22-15.06.12:741][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.22-15.06.12:746][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en' will be used for the language.
+[2018.05.22-15.06.13:078][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.22-15.06.13:448][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.22-15.06.13:486][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.05.22-15.06.13:486][  0]LogD3D11RHI:       1972/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.22-15.06.13:487][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.22-15.06.13:487][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.22-15.06.13:487][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.22-15.06.13:492][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.22-15.06.13:492][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.22-15.06.13:492][  0]LogWindows: EnumDisplayDevices:
+[2018.05.22-15.06.13:492][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.05.22-15.06.13:492][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.22-15.06.13:492][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.22-15.06.13:492][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.22-15.06.13:492][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.05.22-15.06.13:492][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.05.22-15.06.13:493][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2018.05.22-15.06.13:493][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2018.05.22-15.06.13:493][  0]LogRHI: Texture pool is 1380 MB (70% of 1972 MB)
+[2018.05.22-15.06.13:520][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.22-15.06.13:531][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.22-15.06.13:579][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (../../../../LagProject/Game/Intermediate/Shaders/WorkingDirectory/9084/).
+[2018.05.22-15.06.13:579][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/student/AppData/Local/Temp/UnrealShaderWorkingDir/0DBD556B4DB8E56A7D8BF5A94C91FDA8/'.
+[2018.05.22-15.06.13:579][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.22-15.06.14:450][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.22-15.06.14:482][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.22-15.06.14:514][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.22-15.06.14:546][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.22-15.06.14:580][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.22-15.06.14:612][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.22-15.06.14:646][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.22-15.06.14:680][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.22-15.06.14:707][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.22-15.06.14:738][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.22-15.06.14:773][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.22-15.06.14:804][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.22-15.06.14:836][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.22-15.06.14:867][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.22-15.06.14:933][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.22-15.06.14:933][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.22-15.06.14:967][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.22-15.06.14:990][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.22-15.06.15:054][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.22-15.06.15:071][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.22-15.06.15:104][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.22-15.06.15:135][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.22-15.06.15:168][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.22-15.06.15:201][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.22-15.06.15:201][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.22-15.06.15:481][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.22-15.06.15:551][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/student/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.22-15.06.15:551][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/student/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.22-15.06.15:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../LagProject/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.22-15.06.15:551][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.22-15.06.15:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../LagProject/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.22-15.06.15:551][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.22-15.06.15:565][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.22-15.06.15:577][  0]LogDerivedDataCache: Using Local data cache path C:/Users/student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.22-15.06.15:585][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.22-15.06.15:585][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.22-15.06.15:586][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.22-15.06.15:586][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.22-15.06.15:945][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.22-15.06.16:172][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.22-15.06.16:197][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.22-15.06.16:197][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.22-15.06.16:197][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.22-15.06.16:197][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.22-15.06.16:197][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.22-15.06.16:220][  0]LogNetVersion: Game , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1359646243)
+[2018.05.22-15.06.16:357][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2018.05.22-15.06.16:691][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.018243 seconds
+[2018.05.22-15.06.16:696][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.22-15.06.16:696][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.22-15.06.16:696][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.22-15.06.16:721][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.22-15.06.19:024][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.22-15.06.19:055][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.22-15.06.19:709][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.22-15.06.19:992][  0]SourceControl: Source control is disabled
+[2018.05.22-15.06.19:992][  0]SourceControl: Source control is disabled
+[2018.05.22-15.06.20:027][  0]SourceControl: Source control is disabled
+[2018.05.22-15.06.20:061][  0]SourceControl: Source control is disabled
+[2018.05.22-15.06.20:565][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.22-15.06.20:730][  0]LogOcInput: OculusInput pre-init called
+[2018.05.22-15.06.20:909][  0]LogEngine: Initializing Engine...
+[2018.05.22-15.06.20:911][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.22-15.06.21:088][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.22-15.06.21:088][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.22-15.06.21:181][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.22-15.06.21:187][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.06.21:196][  0]LogInit: FAudioDevice initialized.
+[2018.05.22-15.06.21:307][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/student/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.22-15.06.21:316][  0]LogInit: Texture streaming: Enabled
+[2018.05.22-15.06.21:371][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.22-15.06.21:449][  0]LogInit: Transaction tracking system initialized
+[2018.05.22-15.06.21:633][  0]BlueprintLog: New page: Editor Load
+[2018.05.22-15.06.22:151][  0]LocalizationService: Localization service is disabled
+[2018.05.22-15.06.22:600][  0]LogConsoleResponse: Display: 
+[2018.05.22-15.06.22:738][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.22-15.06.22:738][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.22-15.06.22:738][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.22-15.06.23:484][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Content/' took 0.01s
+[2018.05.22-15.06.23:484][  0]SourceControl: Source control is disabled
+[2018.05.22-15.06.23:484][  0]Cmd: MAP LOAD FILE="../../../../LagProject/Game/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.22-15.06.23:485][  0]LightingResults: New page: Lighting Build
+[2018.05.22-15.06.23:509][  0]MapCheck: New page: Map Check
+[2018.05.22-15.06.23:509][  0]LightingResults: New page: Lighting Build
+[2018.05.22-15.06.23:760][  0]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.06.23:765][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.22-15.06.23:773][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.22-15.06.23:856][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.251ms to complete.
+[2018.05.22-15.06.23:856][  0]LogFileHelpers: Loading map 'NewMap' took 0.372
+[2018.05.22-15.06.23:917][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.22-15.06.23:981][  0]LogCollectionManager: Loaded 0 collections in 0.000649 seconds
+[2018.05.22-15.06.24:046][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Saved/Collections/' took 0.01s
+[2018.05.22-15.06.24:046][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Content/Developers/student/Collections/' took 0.01s
+[2018.05.22-15.06.24:046][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Content/Collections/' took 0.01s
+[2018.05.22-15.06.24:046][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.22-15.06.24:052][  0]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2372 classes and 524 folders.
+[2018.05.22-15.06.24:087][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.22-15.06.24:127][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.22-15.06.24:151][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.22-15.06.24:941][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.22-15.06.24:963][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../LagProject/Game/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2018.05.22-15.06.24:968][  0]LogSlate: Took 0.000627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.22-15.06.24:971][  0]LogSlate: Took 0.000530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.22-15.06.24:976][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Game
+[2018.05.22-15.06.24:977][  0]LogTemp: CWD: D:\Lag\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.22-15.06.24:977][  0]LogTemp: Initial Dir: D:\Lag\UE_4.18
+[2018.05.22-15.06.24:977][  0]LogTemp: Env CWD: D:\Lag\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.22-15.06.24:977][  0]LogSlate: Took 0.000909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.22-15.06.25:062][  0]LogTemp: BranchPath = FMK-90008899/D/Lag/UE_4.18/Engine/Binaries --- GameBranchPath = FMK-90008899/D/Lag/UE_4.18/Engine/Binaries
+[2018.05.22-15.06.25:062][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\student\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.22-15.06.25:062][  0]LogRenderer: Reallocating scene render targets to support 1056x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.22-15.06.25:204][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.22-15.06.25:204][  0]LogLoad: (Engine Initialization) Total time: 14.18 seconds
+[2018.05.22-15.06.25:204][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.22-15.06.25:204][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.22-15.06.25:234][  0]LogAssetRegistry: Asset discovery search completed in 8.8987 seconds
+[2018.05.22-15.06.25:236][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.22-15.06.25:236][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2018.05.22-15.06.25:240][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.22-15.06.25:279][  0]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.22-15.06.30:439][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.05.22-15.06.43:391][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2018.05.22-15.06.49:922][673]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.22-15.06.50:136][673]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.05.22-15.06.50:616][673]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.22-15.06.50:658][673]LogSlate: Took 0.000490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.22-15.06.50:697][674]LogSlate: Took 0.000504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.22-15.07.11:697][969]LogRenderer: Reallocating scene render targets to support 1144x900 Format 10 NumSamples 1 (Frame:143).
+[2018.05.22-15.09.07:187][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/DestructiveSphere" FILE="../../../../LagProject/Game/Content/StarterContent/Props/DestructiveSphere.uasset" SILENT=true
+[2018.05.22-15.09.07:197][684]LogSavePackage: Save=8.47ms
+[2018.05.22-15.09.07:197][684]LogSavePackage: Moving '../../../../LagProject/Game/Saved/DestructiveSphereFACB270A45B7EF44D9C1A5A9745CC174.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/DestructiveSphere.uasset'
+[2018.05.22-15.09.07:198][684]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/DestructiveSphere.uasset
+[2018.05.22-15.09.13:779][830]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.22-15.10.28:122][637]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.22-15.10.33:418][122]LogDestructible: Warning: MainMesh Tris: 768
+[2018.05.22-15.10.33:494][122]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2018.05.22-15.10.33:494][122]LogApexDestructibleAssetImport: Warning: Bones digested - 2  Depth of hierarchy - 2
+[2018.05.22-15.10.33:510][122]LogSkeletalMesh: Section 0: 486 vertices, 1 active bones
+[2018.05.22-15.10.33:513][122]LogSkeletalMesh: Section 0: Material=0, 768 triangles
+[2018.05.22-15.11.05:371][854]LogDestructible: Warning: MainMesh Tris: 768
+[2018.05.22-15.11.08:872][854]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2018.05.22-15.11.08:872][854]LogApexDestructibleAssetImport: Warning: Bones digested - 12  Depth of hierarchy - 2
+[2018.05.22-15.11.08:889][854]LogSkeletalMesh: Section 0: 1920 vertices, 11 active bones
+[2018.05.22-15.11.08:889][854]LogSkeletalMesh: Section 1: 938 vertices, 10 active bones
+[2018.05.22-15.11.08:893][854]LogSkeletalMesh: Section 0: Material=0, 2528 triangles
+[2018.05.22-15.11.08:893][854]LogSkeletalMesh: Section 1: Material=1, 714 triangles
+[2018.05.22-15.12.23:724][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.12.23:747][801]LogSavePackage: Save=21.56ms
+[2018.05.22-15.12.23:747][801]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DMFC3028E54ED0422AA0D37897B7F25FBE.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.12.23:748][801]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.12.25:612][998]LogActorFactory: Actor Factory created MaterialSphere
+[2018.05.22-15.12.26:354][ 86]LogActorFactory: Actor Factory created MaterialSphere
+[2018.05.22-15.12.27:937][204]Cmd: DELETE
+[2018.05.22-15.12.27:937][204]Cmd: ACTOR DELETE
+[2018.05.22-15.12.27:938][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.22-15.12.27:951][204]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.05.22-15.12.35:007][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../LagProject/Game/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.22-15.12.35:056][995]LogSavePackage: Save=33.66ms
+[2018.05.22-15.12.35:056][995]LogSavePackage: Moving '../../../../LagProject/Game/Saved/NewMap1F78343D417DA0B97A42FEBC64C91CA4.tmp' to '../../../../LagProject/Game/Content/Maps/NewMap.umap'
+[2018.05.22-15.12.35:058][995]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Maps/NewMap.umap
+[2018.05.22-15.12.36:149][123]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-15.12.36:171][123]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.22-15.12.36:172][123]LogPlayLevel: [PlayLevel] Compiling BaseDestructiveActor_BP before play...
+[2018.05.22-15.12.36:190][123]LogPlayLevel: PlayLevel: Blueprint regeneration took 18 ms (1 blueprints)
+[2018.05.22-15.12.36:190][123]PIE: New page: PIE session: NewMap (May 22, 2018, 5:12:36 PM)
+[2018.05.22-15.12.36:191][123]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.12.36:195][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004091s)
+[2018.05.22-15.12.36:195][123]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.12.36:195][123]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2018.05.22-15.12.36:195][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004941s)
+[2018.05.22-15.12.36:211][123]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.12.36:216][123]LogInit: FAudioDevice initialized.
+[2018.05.22-15.12.36:287][123]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.12.36:304][123]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.12.36
+[2018.05.22-15.12.36:304][123]LogWorld: Bringing up level for play took: 0.015534
+[2018.05.22-15.12.36:327][123]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.05.22-15.12.36:333][123]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.125
+[2018.05.22-15.12.58:818][810]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.13.14:997][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.13.15:029][733]LogSavePackage: Save=28.05ms
+[2018.05.22-15.13.15:029][733]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM68D6A30D487FBDCC6B86B79C04D8DA3E.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.13.15:030][733]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.13.20:163][349]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-15.13.20:173][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.13.20:173][349]PIE: New page: PIE session: NewMap (May 22, 2018, 5:13:20 PM)
+[2018.05.22-15.13.20:173][349]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.13.20:178][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004137s)
+[2018.05.22-15.13.20:178][349]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.13.20:178][349]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.05.22-15.13.20:179][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005241s)
+[2018.05.22-15.13.20:195][349]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.13.20:199][349]LogInit: FAudioDevice initialized.
+[2018.05.22-15.13.20:234][349]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.13.20:235][349]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.13.20
+[2018.05.22-15.13.20:235][349]LogWorld: Bringing up level for play took: 0.001083
+[2018.05.22-15.13.20:240][349]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.032
+[2018.05.22-15.13.24:041][798]LogBlueprintUserMessages: [PlayerCharacter_BP_C_0] Punch
+[2018.05.22-15.13.24:298][829]LogBlueprintUserMessages: [PlayerCharacter_BP_C_0] Stop
+[2018.05.22-15.13.40:661][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.13.40:686][778]LogSavePackage: Save=21.94ms
+[2018.05.22-15.13.40:686][778]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM6170AEFD49531908D4ECDB86FA746819.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.13.40:687][778]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.13.41:956][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.13.41:972][929]LogSavePackage: Save=14.00ms
+[2018.05.22-15.13.41:972][929]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM83631FC1486BE4ED8DDD619D7745AB6A.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.13.41:973][929]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.13.43:224][ 79]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-15.13.43:233][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.13.43:233][ 79]PIE: New page: PIE session: NewMap (May 22, 2018, 5:13:43 PM)
+[2018.05.22-15.13.43:233][ 79]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.13.43:237][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004007s)
+[2018.05.22-15.13.43:238][ 79]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.13.43:238][ 79]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.05.22-15.13.43:238][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004886s)
+[2018.05.22-15.13.43:253][ 79]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.13.43:258][ 79]LogInit: FAudioDevice initialized.
+[2018.05.22-15.13.43:297][ 79]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.13.43:299][ 79]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.13.43
+[2018.05.22-15.13.43:299][ 79]LogWorld: Bringing up level for play took: 0.001049
+[2018.05.22-15.13.43:304][ 79]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.904
+[2018.05.22-15.13.47:406][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.13.47:431][549]LogSavePackage: Save=22.29ms
+[2018.05.22-15.13.47:431][549]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DME475A04D44C2C06042D750AC83FAE1CF.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.13.47:433][549]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.13.48:397][665]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-15.13.48:408][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.13.48:408][665]PIE: New page: PIE session: NewMap (May 22, 2018, 5:13:48 PM)
+[2018.05.22-15.13.48:408][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.13.48:412][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003934s)
+[2018.05.22-15.13.48:412][665]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.13.48:412][665]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2018.05.22-15.13.48:413][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004896s)
+[2018.05.22-15.13.48:434][665]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.13.48:438][665]LogInit: FAudioDevice initialized.
+[2018.05.22-15.13.48:478][665]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.13.48:480][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.13.48
+[2018.05.22-15.13.48:480][665]LogWorld: Bringing up level for play took: 0.001448
+[2018.05.22-15.13.48:486][665]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.278
+[2018.05.22-15.13.53:138][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.13.53:138][202]PIE: New page: SIE session: NewMap (May 22, 2018, 5:13:53 PM)
+[2018.05.22-15.13.53:139][202]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.13.53:142][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003717s)
+[2018.05.22-15.13.53:143][202]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.13.53:143][202]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.05.22-15.13.53:143][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004596s)
+[2018.05.22-15.13.53:158][202]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.13.53:162][202]LogInit: FAudioDevice initialized.
+[2018.05.22-15.13.53:195][202]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.13.53:202][202]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.13.53
+[2018.05.22-15.13.53:202][202]LogWorld: Bringing up level for play took: 0.006794
+[2018.05.22-15.13.53:202][202]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.995
+[2018.05.22-15.14.08:868][ 25]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.14.08:877][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.14.08:877][ 25]PIE: New page: SIE session: NewMap (May 22, 2018, 5:14:08 PM)
+[2018.05.22-15.14.08:877][ 25]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.14.08:881][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004113s)
+[2018.05.22-15.14.08:882][ 25]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.14.08:882][ 25]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.05.22-15.14.08:882][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005072s)
+[2018.05.22-15.14.08:897][ 25]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.14.08:902][ 25]LogInit: FAudioDevice initialized.
+[2018.05.22-15.14.08:934][ 25]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.14.08:935][ 25]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.14.08
+[2018.05.22-15.14.08:935][ 25]LogWorld: Bringing up level for play took: 0.000860
+[2018.05.22-15.14.08:936][ 25]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.728
+[2018.05.22-15.14.29:975][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.14.30:000][535]LogSavePackage: Save=22.08ms
+[2018.05.22-15.14.30:000][535]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM35E4228347E96959A7E96B9A1A18F04A.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.14.30:001][535]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.14.33:478][897]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.14.33:489][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.14.33:489][897]PIE: New page: SIE session: NewMap (May 22, 2018, 5:14:33 PM)
+[2018.05.22-15.14.33:489][897]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.14.33:493][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003666s)
+[2018.05.22-15.14.33:493][897]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.14.33:493][897]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.05.22-15.14.33:493][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004496s)
+[2018.05.22-15.14.33:509][897]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.14.33:513][897]LogInit: FAudioDevice initialized.
+[2018.05.22-15.14.33:541][897]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.14.33:543][897]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.14.33
+[2018.05.22-15.14.33:543][897]LogWorld: Bringing up level for play took: 0.000852
+[2018.05.22-15.14.33:544][897]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.664
+[2018.05.22-15.15.33:217][477]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.15.35:376][716]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.15.35:387][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.15.35:387][716]PIE: New page: SIE session: NewMap (May 22, 2018, 5:15:35 PM)
+[2018.05.22-15.15.35:387][716]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.15.35:391][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003692s)
+[2018.05.22-15.15.35:391][716]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.15.35:391][716]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2018.05.22-15.15.35:392][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004501s)
+[2018.05.22-15.15.35:408][716]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.15.35:413][716]LogInit: FAudioDevice initialized.
+[2018.05.22-15.15.35:446][716]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.15.35:447][716]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.15.35
+[2018.05.22-15.15.35:447][716]LogWorld: Bringing up level for play took: 0.000897
+[2018.05.22-15.15.35:448][716]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.76
+[2018.05.22-15.15.37:028][894]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.15.38:300][ 40]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.15.38:309][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.15.38:309][ 40]PIE: New page: SIE session: NewMap (May 22, 2018, 5:15:38 PM)
+[2018.05.22-15.15.38:309][ 40]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.15.38:313][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003645s)
+[2018.05.22-15.15.38:313][ 40]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.15.38:314][ 40]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2018.05.22-15.15.38:314][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004526s)
+[2018.05.22-15.15.38:332][ 40]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.15.38:337][ 40]LogInit: FAudioDevice initialized.
+[2018.05.22-15.15.38:371][ 40]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.15.38:373][ 40]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.15.38
+[2018.05.22-15.15.38:373][ 40]LogWorld: Bringing up level for play took: 0.000908
+[2018.05.22-15.15.38:373][ 40]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.166
+[2018.05.22-15.15.40:369][255]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.15.46:064][879]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.15.46:073][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.15.46:073][879]PIE: New page: SIE session: NewMap (May 22, 2018, 5:15:46 PM)
+[2018.05.22-15.15.46:073][879]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.15.46:077][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003449s)
+[2018.05.22-15.15.46:077][879]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.15.46:077][879]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2018.05.22-15.15.46:078][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004318s)
+[2018.05.22-15.15.46:094][879]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.15.46:099][879]LogInit: FAudioDevice initialized.
+[2018.05.22-15.15.46:133][879]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.15.46:134][879]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.15.46
+[2018.05.22-15.15.46:134][879]LogWorld: Bringing up level for play took: 0.000829
+[2018.05.22-15.15.46:135][879]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.073
+[2018.05.22-15.15.48:320][116]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.15.48:330][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.15.48:330][116]PIE: New page: SIE session: NewMap (May 22, 2018, 5:15:48 PM)
+[2018.05.22-15.15.48:330][116]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.15.48:335][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004556s)
+[2018.05.22-15.15.48:335][116]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.15.48:336][116]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2018.05.22-15.15.48:336][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005685s)
+[2018.05.22-15.15.48:360][116]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.15.48:367][116]LogInit: FAudioDevice initialized.
+[2018.05.22-15.15.48:401][116]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.15.48:403][116]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.15.48
+[2018.05.22-15.15.48:403][116]LogWorld: Bringing up level for play took: 0.001185
+[2018.05.22-15.15.48:404][116]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.196
+[2018.05.22-15.15.51:015][396]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.16.06:709][222]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.16.06:719][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.16.06:720][222]PIE: New page: SIE session: NewMap (May 22, 2018, 5:16:06 PM)
+[2018.05.22-15.16.06:720][222]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.16.06:723][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003607s)
+[2018.05.22-15.16.06:724][222]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.16.06:724][222]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2018.05.22-15.16.06:724][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004712s)
+[2018.05.22-15.16.06:739][222]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.16.06:745][222]LogInit: FAudioDevice initialized.
+[2018.05.22-15.16.06:774][222]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.16.06:775][222]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.16.06
+[2018.05.22-15.16.06:775][222]LogWorld: Bringing up level for play took: 0.000833
+[2018.05.22-15.16.06:776][222]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.568
+[2018.05.22-15.16.08:526][418]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.16.54:460][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.16.54:484][904]LogSavePackage: Save=21.35ms
+[2018.05.22-15.16.54:484][904]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DMDF9661F348051CBB66388192FB9F3528.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.16.54:485][904]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.16.55:831][ 64]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.16.55:840][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.16.55:840][ 64]PIE: New page: SIE session: NewMap (May 22, 2018, 5:16:55 PM)
+[2018.05.22-15.16.55:840][ 64]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.16.55:844][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004589s)
+[2018.05.22-15.16.55:845][ 64]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.16.55:845][ 64]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2018.05.22-15.16.55:846][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.006031s)
+[2018.05.22-15.16.55:861][ 64]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.16.55:866][ 64]LogInit: FAudioDevice initialized.
+[2018.05.22-15.16.55:897][ 64]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.16.55:899][ 64]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.16.55
+[2018.05.22-15.16.55:899][ 64]LogWorld: Bringing up level for play took: 0.000845
+[2018.05.22-15.16.55:900][ 64]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.308
+[2018.05.22-15.17.45:421][981]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.17.46:785][138]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.17.46:795][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.17.46:795][138]PIE: New page: SIE session: NewMap (May 22, 2018, 5:17:46 PM)
+[2018.05.22-15.17.46:795][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.17.46:799][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003677s)
+[2018.05.22-15.17.46:800][138]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.17.46:800][138]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2018.05.22-15.17.46:800][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004505s)
+[2018.05.22-15.17.46:816][138]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.17.46:821][138]LogInit: FAudioDevice initialized.
+[2018.05.22-15.17.46:849][138]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.17.46:850][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.17.46
+[2018.05.22-15.17.46:850][138]LogWorld: Bringing up level for play took: 0.000922
+[2018.05.22-15.17.46:851][138]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.643
+[2018.05.22-15.17.57:440][384]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.17.57:450][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.17.57:450][384]PIE: New page: SIE session: NewMap (May 22, 2018, 5:17:57 PM)
+[2018.05.22-15.17.57:451][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.17.57:454][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003576s)
+[2018.05.22-15.17.57:455][384]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.17.57:455][384]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2018.05.22-15.17.57:455][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004280s)
+[2018.05.22-15.17.57:470][384]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.17.57:474][384]LogInit: FAudioDevice initialized.
+[2018.05.22-15.17.57:505][384]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.17.57:507][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.17.57
+[2018.05.22-15.17.57:507][384]LogWorld: Bringing up level for play took: 0.000831
+[2018.05.22-15.17.57:508][384]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.7
+[2018.05.22-15.18.01:559][839]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.18.01:569][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.18.01:569][839]PIE: New page: SIE session: NewMap (May 22, 2018, 5:18:01 PM)
+[2018.05.22-15.18.01:569][839]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.18.01:573][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003578s)
+[2018.05.22-15.18.01:573][839]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.18.01:573][839]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2018.05.22-15.18.01:573][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004326s)
+[2018.05.22-15.18.01:592][839]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.18.01:596][839]LogInit: FAudioDevice initialized.
+[2018.05.22-15.18.01:627][839]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.18.01:629][839]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.18.01
+[2018.05.22-15.18.01:629][839]LogWorld: Bringing up level for play took: 0.001211
+[2018.05.22-15.18.01:629][839]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.579
+[2018.05.22-15.18.03:892][ 95]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.18.04:977][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2018.05.22-15.18.05:671][298]Cmd: DELETE
+[2018.05.22-15.18.05:671][298]Cmd: ACTOR DELETE
+[2018.05.22-15.18.05:674][298]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.22-15.18.05:688][298]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.05.22-15.18.06:816][433]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.18.10:514][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.22-15.18.24:737][452]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.05.22-15.18.26:166][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.22-15.19.03:093][752]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.20.03:765][741]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.20.03:774][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.20.03:775][741]PIE: New page: SIE session: NewMap (May 22, 2018, 5:20:03 PM)
+[2018.05.22-15.20.03:775][741]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.20.03:779][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003966s)
+[2018.05.22-15.20.03:779][741]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.20.03:779][741]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.05.22-15.20.03:779][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004749s)
+[2018.05.22-15.20.03:796][741]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.20.03:801][741]LogInit: FAudioDevice initialized.
+[2018.05.22-15.20.03:829][741]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.20.03:830][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.20.03
+[2018.05.22-15.20.03:830][741]LogWorld: Bringing up level for play took: 0.000969
+[2018.05.22-15.20.03:832][741]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.377
+[2018.05.22-15.20.07:503][ 65]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.20.12:532][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.22-15.20.16:021][ 29]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.20.23:596][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.22-15.20.24:517][971]LogEditorViewport: Clicking on Actor (LMB): GameOver_BP_C (GameOver_BP)
+[2018.05.22-15.20.28:202][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.05.22-15.20.32:603][901]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.20.42:144][ 22]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.20.42:153][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.20.42:153][ 22]PIE: New page: SIE session: NewMap (May 22, 2018, 5:20:42 PM)
+[2018.05.22-15.20.42:153][ 22]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.20.42:157][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003798s)
+[2018.05.22-15.20.42:158][ 22]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.20.42:158][ 22]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2018.05.22-15.20.42:158][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004841s)
+[2018.05.22-15.20.42:175][ 22]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.20.42:179][ 22]LogInit: FAudioDevice initialized.
+[2018.05.22-15.20.42:209][ 22]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.20.42:210][ 22]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.20.42
+[2018.05.22-15.20.42:211][ 22]LogWorld: Bringing up level for play took: 0.000990
+[2018.05.22-15.20.42:211][ 22]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.004
+[2018.05.22-15.20.44:519][265]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.20.46:848][538]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.20.46:858][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.20.46:858][538]PIE: New page: SIE session: NewMap (May 22, 2018, 5:20:46 PM)
+[2018.05.22-15.20.46:858][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.20.46:862][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004074s)
+[2018.05.22-15.20.46:863][538]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.20.46:863][538]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.05.22-15.20.46:863][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004832s)
+[2018.05.22-15.20.46:882][538]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.20.46:886][538]LogInit: FAudioDevice initialized.
+[2018.05.22-15.20.46:914][538]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.20.46:916][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.20.46
+[2018.05.22-15.20.46:916][538]LogWorld: Bringing up level for play took: 0.000815
+[2018.05.22-15.20.46:916][538]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.709
+[2018.05.22-15.20.49:591][827]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.20.50:815][967]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.20.50:825][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.20.50:825][967]PIE: New page: SIE session: NewMap (May 22, 2018, 5:20:50 PM)
+[2018.05.22-15.20.50:825][967]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.20.50:828][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003725s)
+[2018.05.22-15.20.50:829][967]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.20.50:829][967]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.05.22-15.20.50:829][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004467s)
+[2018.05.22-15.20.50:847][967]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.20.50:852][967]LogInit: FAudioDevice initialized.
+[2018.05.22-15.20.50:883][967]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.20.50:884][967]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.20.50
+[2018.05.22-15.20.50:885][967]LogWorld: Bringing up level for play took: 0.000809
+[2018.05.22-15.20.50:885][967]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.677
+[2018.05.22-15.20.53:871][301]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.20.57:689][753]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.20.57:698][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.20.57:698][753]PIE: New page: SIE session: NewMap (May 22, 2018, 5:20:57 PM)
+[2018.05.22-15.20.57:698][753]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.20.57:702][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003572s)
+[2018.05.22-15.20.57:702][753]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.20.57:703][753]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2018.05.22-15.20.57:703][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004317s)
+[2018.05.22-15.20.57:718][753]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.20.57:723][753]LogInit: FAudioDevice initialized.
+[2018.05.22-15.20.57:756][753]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.20.57:758][753]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.20.57
+[2018.05.22-15.20.57:758][753]LogWorld: Bringing up level for play took: 0.001328
+[2018.05.22-15.20.57:759][753]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.449
+[2018.05.22-15.21.00:874][ 96]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.21.04:910][572]LogDestructible: Warning: MainMesh Tris: 768
+[2018.05.22-15.21.08:720][572]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2018.05.22-15.21.08:720][572]LogApexDestructibleAssetImport: Warning: Bones digested - 28  Depth of hierarchy - 2
+[2018.05.22-15.21.08:742][572]LogSkeletalMesh: Section 0: 2300 vertices, 22 active bones
+[2018.05.22-15.21.08:743][572]LogSkeletalMesh: Section 1: 2136 vertices, 26 active bones
+[2018.05.22-15.21.08:748][572]LogSkeletalMesh: Section 0: Material=0, 2890 triangles
+[2018.05.22-15.21.08:748][572]LogSkeletalMesh: Section 1: Material=1, 1516 triangles
+[2018.05.22-15.21.31:313][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.21.31:881][277]LogSavePackage: Save=564.62ms
+[2018.05.22-15.21.31:881][277]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DMCA5E8ED3438F55CE76C885BA36732D08.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.21.31:883][277]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.21.39:126][145]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.21.39:135][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.21.39:135][145]PIE: New page: SIE session: NewMap (May 22, 2018, 5:21:39 PM)
+[2018.05.22-15.21.39:135][145]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.21.39:140][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004198s)
+[2018.05.22-15.21.39:140][145]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.21.39:140][145]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.05.22-15.21.39:141][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005299s)
+[2018.05.22-15.21.39:156][145]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.21.39:161][145]LogInit: FAudioDevice initialized.
+[2018.05.22-15.21.39:191][145]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.21.39:193][145]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.21.39
+[2018.05.22-15.21.39:193][145]LogWorld: Bringing up level for play took: 0.000838
+[2018.05.22-15.21.39:194][145]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.986
+[2018.05.22-15.21.41:854][452]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.21.46:637][ 17]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.21.46:648][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.21.46:648][ 17]PIE: New page: SIE session: NewMap (May 22, 2018, 5:21:46 PM)
+[2018.05.22-15.21.46:648][ 17]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.21.46:652][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003571s)
+[2018.05.22-15.21.46:653][ 17]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.21.46:653][ 17]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.05.22-15.21.46:653][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004523s)
+[2018.05.22-15.21.46:672][ 17]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.21.46:678][ 17]LogInit: FAudioDevice initialized.
+[2018.05.22-15.21.46:708][ 17]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.21.46:709][ 17]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.21.46
+[2018.05.22-15.21.46:709][ 17]LogWorld: Bringing up level for play took: 0.000869
+[2018.05.22-15.21.46:710][ 17]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.502
+[2018.05.22-15.21.54:549][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.21.54:580][920]LogSavePackage: Save=29.13ms
+[2018.05.22-15.21.54:580][920]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM4549D5354B09BD97EE8788AA40DB638A.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.21.54:581][920]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.21.57:405][259]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.21.57:415][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.21.57:415][259]PIE: New page: SIE session: NewMap (May 22, 2018, 5:21:57 PM)
+[2018.05.22-15.21.57:415][259]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.21.57:418][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003425s)
+[2018.05.22-15.21.57:419][259]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.21.57:419][259]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2018.05.22-15.21.57:419][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004147s)
+[2018.05.22-15.21.57:436][259]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.21.57:441][259]LogInit: FAudioDevice initialized.
+[2018.05.22-15.21.57:472][259]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.21.57:473][259]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.21.57
+[2018.05.22-15.21.57:474][259]LogWorld: Bringing up level for play took: 0.001197
+[2018.05.22-15.21.57:474][259]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.734
+[2018.05.22-15.22.11:602][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.22.11:631][911]LogSavePackage: Save=26.77ms
+[2018.05.22-15.22.11:631][911]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DMA4CF000146764AC78126EA8F3D3EE290.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.22.11:632][911]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.22.13:130][ 91]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.22.13:140][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.22.13:140][ 91]PIE: New page: SIE session: NewMap (May 22, 2018, 5:22:13 PM)
+[2018.05.22-15.22.13:140][ 91]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.22.13:144][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003756s)
+[2018.05.22-15.22.13:144][ 91]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.22.13:145][ 91]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.05.22-15.22.13:145][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004475s)
+[2018.05.22-15.22.13:160][ 91]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.22.13:164][ 91]LogInit: FAudioDevice initialized.
+[2018.05.22-15.22.13:193][ 91]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.22.13:194][ 91]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.22.13
+[2018.05.22-15.22.13:194][ 91]LogWorld: Bringing up level for play took: 0.000850
+[2018.05.22-15.22.13:195][ 91]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.987
+[2018.05.22-15.22.19:129][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.22.19:160][798]LogSavePackage: Save=28.48ms
+[2018.05.22-15.22.19:160][798]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DMBB6F3EF24E9648A65522D58FE1ED5B2B.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.22.19:162][798]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.22.20:776][986]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.22.20:785][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.22.20:786][986]PIE: New page: SIE session: NewMap (May 22, 2018, 5:22:20 PM)
+[2018.05.22-15.22.20:786][986]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.22.20:790][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004855s)
+[2018.05.22-15.22.20:791][986]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.22.20:791][986]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2018.05.22-15.22.20:792][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.006058s)
+[2018.05.22-15.22.20:810][986]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.22.20:815][986]LogInit: FAudioDevice initialized.
+[2018.05.22-15.22.20:848][986]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.22.20:849][986]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.22.20
+[2018.05.22-15.22.20:850][986]LogWorld: Bringing up level for play took: 0.000814
+[2018.05.22-15.22.20:850][986]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.642
+[2018.05.22-15.22.30:530][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../LagProject/Game/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.22-15.22.30:578][123]LogSavePackage: Save=31.93ms
+[2018.05.22-15.22.30:578][123]LogSavePackage: Moving '../../../../LagProject/Game/Saved/NewMap0C04042341F0F4585A046AB7B57AFA4F.tmp' to '../../../../LagProject/Game/Content/Maps/NewMap.umap'
+[2018.05.22-15.22.30:580][123]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Maps/NewMap.umap
+[2018.05.22-15.22.36:330][810]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.22.36:339][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.22.36:339][810]PIE: New page: SIE session: NewMap (May 22, 2018, 5:22:36 PM)
+[2018.05.22-15.22.36:340][810]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.22.36:343][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003618s)
+[2018.05.22-15.22.36:344][810]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.22.36:344][810]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2018.05.22-15.22.36:344][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004388s)
+[2018.05.22-15.22.36:359][810]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.22.36:364][810]LogInit: FAudioDevice initialized.
+[2018.05.22-15.22.36:397][810]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.22.36:399][810]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.22.36
+[2018.05.22-15.22.36:399][810]LogWorld: Bringing up level for play took: 0.000831
+[2018.05.22-15.22.36:399][810]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.192
+[2018.05.22-15.22.47:043][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.22.47:075][ 48]LogSavePackage: Save=28.87ms
+[2018.05.22-15.22.47:075][ 48]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM6730A8544F021D8F3B5E1CB976220711.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.22.47:076][ 48]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.22.48:007][160]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.22.48:016][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.22.48:016][160]PIE: New page: SIE session: NewMap (May 22, 2018, 5:22:48 PM)
+[2018.05.22-15.22.48:016][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.22.48:020][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003885s)
+[2018.05.22-15.22.48:021][160]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.22.48:021][160]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2018.05.22-15.22.48:021][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004708s)
+[2018.05.22-15.22.48:037][160]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.22.48:042][160]LogInit: FAudioDevice initialized.
+[2018.05.22-15.22.48:076][160]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.22.48:077][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.22.48
+[2018.05.22-15.22.48:077][160]LogWorld: Bringing up level for play took: 0.000863
+[2018.05.22-15.22.48:078][160]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.13
+[2018.05.22-15.23.06:849][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.23.06:882][389]LogSavePackage: Save=29.55ms
+[2018.05.22-15.23.06:882][389]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM6D5A88FF400EA9C19319FC80B30D66FB.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.23.06:884][389]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.23.07:794][498]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.23.07:804][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.23.07:804][498]PIE: New page: SIE session: NewMap (May 22, 2018, 5:23:07 PM)
+[2018.05.22-15.23.07:804][498]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.23.07:808][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004196s)
+[2018.05.22-15.23.07:809][498]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.23.07:809][498]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.05.22-15.23.07:809][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005251s)
+[2018.05.22-15.23.07:825][498]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.23.07:829][498]LogInit: FAudioDevice initialized.
+[2018.05.22-15.23.07:863][498]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.23.07:864][498]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.23.07
+[2018.05.22-15.23.07:864][498]LogWorld: Bringing up level for play took: 0.000921
+[2018.05.22-15.23.07:865][498]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.343
+[2018.05.22-15.23.13:064][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.23.13:095][103]LogSavePackage: Save=28.77ms
+[2018.05.22-15.23.13:095][103]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM953D28674457D01F6D655AB0D110BAE9.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.23.13:096][103]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.23.14:926][310]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.23.14:935][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.23.14:935][310]PIE: New page: SIE session: NewMap (May 22, 2018, 5:23:14 PM)
+[2018.05.22-15.23.14:935][310]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.23.14:940][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004564s)
+[2018.05.22-15.23.14:940][310]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.23.14:941][310]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2018.05.22-15.23.14:941][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005276s)
+[2018.05.22-15.23.14:959][310]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.23.14:964][310]LogInit: FAudioDevice initialized.
+[2018.05.22-15.23.14:998][310]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.23.14:999][310]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.23.14
+[2018.05.22-15.23.14:999][310]LogWorld: Bringing up level for play took: 0.000818
+[2018.05.22-15.23.15:000][310]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.792
+[2018.05.22-15.23.21:534][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.23.21:567][ 75]LogSavePackage: Save=29.59ms
+[2018.05.22-15.23.21:567][ 75]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM448E3892430412BD10282E9D4DC00D5A.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.23.21:568][ 75]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.23.22:959][225]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.23.22:968][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.23.22:969][225]PIE: New page: SIE session: NewMap (May 22, 2018, 5:23:22 PM)
+[2018.05.22-15.23.22:969][225]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.23.22:973][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003952s)
+[2018.05.22-15.23.22:973][225]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.23.22:973][225]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2018.05.22-15.23.22:973][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004670s)
+[2018.05.22-15.23.22:991][225]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.23.22:996][225]LogInit: FAudioDevice initialized.
+[2018.05.22-15.23.23:025][225]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.23.23:026][225]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.23.23
+[2018.05.22-15.23.23:026][225]LogWorld: Bringing up level for play took: 0.000800
+[2018.05.22-15.23.23:027][225]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.819
+[2018.05.22-15.23.37:890][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.23.37:914][975]LogSavePackage: Save=21.78ms
+[2018.05.22-15.23.37:914][975]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DME123633243EB8A770B36409C866CE5DF.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.23.37:915][975]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.23.38:972][102]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.23.38:981][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.23.38:981][102]PIE: New page: SIE session: NewMap (May 22, 2018, 5:23:38 PM)
+[2018.05.22-15.23.38:981][102]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.23.38:985][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003858s)
+[2018.05.22-15.23.38:986][102]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.23.38:986][102]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.05.22-15.23.38:986][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004892s)
+[2018.05.22-15.23.39:001][102]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.23.39:006][102]LogInit: FAudioDevice initialized.
+[2018.05.22-15.23.39:034][102]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.23.39:036][102]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.23.39
+[2018.05.22-15.23.39:036][102]LogWorld: Bringing up level for play took: 0.001021
+[2018.05.22-15.23.39:036][102]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.828
+[2018.05.22-15.23.50:309][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere_DM" FILE="../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset" SILENT=true
+[2018.05.22-15.23.50:341][427]LogSavePackage: Save=29.18ms
+[2018.05.22-15.23.50:341][427]LogSavePackage: Moving '../../../../LagProject/Game/Saved/MaterialSphere_DM3843B1D3489C8D4586DD2AB79FAA884A.tmp' to '../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset'
+[2018.05.22-15.23.50:342][427]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/StarterContent/Props/MaterialSphere_DM.uasset
+[2018.05.22-15.23.51:466][562]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.23.51:475][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.23.51:476][562]PIE: New page: SIE session: NewMap (May 22, 2018, 5:23:51 PM)
+[2018.05.22-15.23.51:476][562]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.23.51:479][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003437s)
+[2018.05.22-15.23.51:479][562]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.23.51:480][562]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2018.05.22-15.23.51:480][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004178s)
+[2018.05.22-15.23.51:498][562]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.23.51:503][562]LogInit: FAudioDevice initialized.
+[2018.05.22-15.23.51:534][562]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.23.51:536][562]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.23.51
+[2018.05.22-15.23.51:536][562]LogWorld: Bringing up level for play took: 0.001043
+[2018.05.22-15.23.51:537][562]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.671
+[2018.05.22-15.24.42:117][591]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.22-15.24.42:662][592]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (MaterialSphere_DM)
+[2018.05.22-15.24.43:090][639]Cmd: DELETE
+[2018.05.22-15.24.43:090][639]Cmd: ACTOR DELETE
+[2018.05.22-15.24.43:091][639]LogEditorActor: Deleted Actor: DestructibleActor
+[2018.05.22-15.24.43:103][639]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.05.22-15.24.53:634][376]LogTemp: Repeating last play command: Simulate
+[2018.05.22-15.24.53:643][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-15.24.53:643][376]PIE: New page: SIE session: NewMap (May 22, 2018, 5:24:53 PM)
+[2018.05.22-15.24.53:643][376]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-15.24.53:647][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003463s)
+[2018.05.22-15.24.53:648][376]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-15.24.53:648][376]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.05.22-15.24.53:648][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004573s)
+[2018.05.22-15.24.53:663][376]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-15.24.53:668][376]LogInit: FAudioDevice initialized.
+[2018.05.22-15.24.53:701][376]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-15.24.53:702][376]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-16.24.53
+[2018.05.22-15.24.53:703][376]LogWorld: Bringing up level for play took: 0.000718
+[2018.05.22-15.24.53:703][376]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.504
+[2018.05.22-15.25.01:396][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../LagProject/Game/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.22-15.25.01:441][220]LogSavePackage: Save=30.04ms
+[2018.05.22-15.25.01:441][220]LogSavePackage: Moving '../../../../LagProject/Game/Saved/NewMap6A38B2144D3C32D6902A529DE5D26C0D.tmp' to '../../../../LagProject/Game/Content/Maps/NewMap.umap'
+[2018.05.22-15.25.01:442][220]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Maps/NewMap.umap
+[2018.05.22-15.26.31:581][849]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.22-15.26.31:581][849]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.22-15.34.52:636][401]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.22-15.35.01:700][428]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.027
+[2018.05.22-15.35.01:702][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BaseDestructiveActor_BP] ([1] browsable assets)...
+[2018.05.22-15.35.01:702][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BaseDestructiveActor_BP]
+[2018.05.22-15.35.01:702][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseDestructiveActor_BP" FILE="../../../../LagProject/Game/Saved/Autosaves/Game/Blueprints/BaseDestructiveActor_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.22-15.35.01:713][428]LogSavePackage: Save=9.71ms
+[2018.05.22-15.35.01:713][428]LogSavePackage: Moving '../../../../LagProject/Game/Saved/BaseDestructiveActor_BP_Auto11D433C574773E0160F1F5688BEDB824E.tmp' to '../../../../LagProject/Game/Saved/Autosaves/Game/Blueprints/BaseDestructiveActor_BP_Auto1.uasset'
+[2018.05.22-15.35.01:714][428]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Saved/Autosaves/Game/Blueprints/BaseDestructiveActor_BP_Auto1.uasset
+[2018.05.22-15.35.01:714][428]LogFileHelpers: Auto-saving content packages took 0.013
+[2018.05.22-16.34.27:732][124]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.22-16.34.27:732][124]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
