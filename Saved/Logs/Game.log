@@ -1,4 +1,4 @@
-﻿Log file open, 05/22/18 10:13:45
+﻿Log file open, 05/22/18 14:07:03
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Game
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-2082775186) SRandInit(-2082775185).
+LogInit: Display: RandInit(-114389211) SRandInit(-114389211).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.202219
+LogStats: Stats thread started at 0.151838
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -196,167 +196,377 @@ LogInit: Base directory: D:/Lag/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.05.22-09.13.49:151][  0]LogInit: Selected Device Profile: [Windows]
-[2018.05.22-09.13.49:151][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.05.22-09.13.49:240][  0]LogInit: Computer: FMK-90008899
-[2018.05.22-09.13.49:240][  0]LogInit: User: student
-[2018.05.22-09.13.49:240][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.05.22-09.13.49:240][  0]LogInit: High frequency timer resolution =3.515626 MHz
-[2018.05.22-09.13.49:247][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2018.05.22-09.13.49:247][  0]LogMemory: Platform Memory Stats for Windows
-[2018.05.22-09.13.49:247][  0]LogMemory: Process Physical Memory: 273.20 MB used, 273.20 MB peak
-[2018.05.22-09.13.49:247][  0]LogMemory: Process Virtual Memory: 271.61 MB used, 271.61 MB peak
-[2018.05.22-09.13.49:247][  0]LogMemory: Physical Memory: 3516.06 MB used,  12823.02 MB free, 16339.08 MB total
-[2018.05.22-09.13.49:247][  0]LogMemory: Virtual Memory: 646.20 MB used,  12823.02 MB free, 134217728.00 MB total
-[2018.05.22-09.13.49:831][  0]LogInit: Using OS detected language (sk-SK).
-[2018.05.22-09.13.49:831][  0]LogInit: Using OS detected locale (en-US).
-[2018.05.22-09.13.49:974][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en' will be used for the language.
-[2018.05.22-09.13.50:585][  0]LogInit: Setting process to per monitor DPI aware
-[2018.05.22-09.13.51:660][  0]LogD3D11RHI: D3D11 adapters:
-[2018.05.22-09.13.51:710][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
-[2018.05.22-09.13.51:710][  0]LogD3D11RHI:       1972/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.05.22-09.13.51:711][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.05.22-09.13.51:711][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.05.22-09.13.51:711][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.05.22-09.13.51:716][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.05.22-09.13.51:724][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
-[2018.05.22-09.13.51:724][  0]LogWindows: EnumDisplayDevices:
-[2018.05.22-09.13.51:724][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
-[2018.05.22-09.13.51:735][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2018.05.22-09.13.51:735][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2018.05.22-09.13.51:735][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2018.05.22-09.13.51:736][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2018.05.22-09.13.51:736][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
-[2018.05.22-09.13.51:736][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
-[2018.05.22-09.13.51:736][  0]LogD3D11RHI:      Driver Date: 7-18-2017
-[2018.05.22-09.13.51:736][  0]LogRHI: Texture pool is 1380 MB (70% of 1972 MB)
-[2018.05.22-09.13.51:782][  0]LogD3D11RHI: Async texture creation enabled
-[2018.05.22-09.13.52:113][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.05.22-09.13.52:254][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (../../../../LagProject/Game/Intermediate/Shaders/WorkingDirectory/9224/).
-[2018.05.22-09.13.52:255][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/student/AppData/Local/Temp/UnrealShaderWorkingDir/104F144C4183CA0EC31605AD730B19CD/'.
-[2018.05.22-09.13.52:256][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.05.22-09.13.54:534][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.05.22-09.13.54:564][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.05.22-09.13.54:594][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.05.22-09.13.54:625][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.05.22-09.13.54:659][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.05.22-09.13.54:690][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.05.22-09.13.54:721][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.05.22-09.13.54:753][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.05.22-09.13.54:779][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.05.22-09.13.54:810][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.05.22-09.13.54:840][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.05.22-09.13.54:870][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.05.22-09.13.54:938][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.05.22-09.13.54:972][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.05.22-09.13.55:061][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.05.22-09.13.55:061][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.05.22-09.13.55:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.05.22-09.13.55:143][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.05.22-09.13.55:236][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.05.22-09.13.55:262][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.05.22-09.13.55:298][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.05.22-09.13.55:329][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.05.22-09.13.55:363][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.05.22-09.13.55:395][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.05.22-09.13.55:395][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.05.22-09.13.56:287][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.05.22-09.13.56:835][  0]LogDerivedDataCache: Loaded boot cache 0.55s 78MB C:/Users/student/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.05.22-09.13.56:835][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/student/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.05.22-09.13.56:835][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../LagProject/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.05.22-09.13.56:835][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.05.22-09.13.56:835][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../LagProject/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.05.22-09.13.56:835][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.05.22-09.13.56:885][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.05.22-09.13.56:898][  0]LogDerivedDataCache: Using Local data cache path C:/Users/student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.05.22-09.13.56:962][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.05.22-09.13.57:014][  0]LogSlate: Using Freetype 2.6.0
-[2018.05.22-09.13.57:096][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.05.22-09.13.57:103][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.05.22-09.14.01:222][  0]LogInit: Selected Device Profile: [Windows]
-[2018.05.22-09.14.02:472][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.05.22-09.14.02:546][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.05.22-09.14.02:546][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.05.22-09.14.02:546][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.05.22-09.14.02:546][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.05.22-09.14.02:546][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.05.22-09.14.02:888][  0]LogNetVersion: Game , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1359646243)
-[2018.05.22-09.14.03:918][  0]LogAssetRegistry: FAssetRegistry took 0.0582 seconds to start up
-[2018.05.22-09.14.07:276][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.115344 seconds
-[2018.05.22-09.14.07:285][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
-[2018.05.22-09.14.07:285][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
-[2018.05.22-09.14.07:285][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.05.22-09.14.07:333][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.05.22-09.14.14:749][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.05.22-09.14.14:793][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.05.22-09.14.16:115][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.05.22-09.14.16:616][  0]SourceControl: Source control is disabled
-[2018.05.22-09.14.16:629][  0]SourceControl: Source control is disabled
-[2018.05.22-09.14.16:701][  0]SourceControl: Source control is disabled
-[2018.05.22-09.14.16:798][  0]SourceControl: Source control is disabled
-[2018.05.22-09.14.17:953][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.05.22-09.14.18:178][  0]LogOcInput: OculusInput pre-init called
-[2018.05.22-09.14.18:945][  0]LogEngine: Initializing Engine...
-[2018.05.22-09.14.18:994][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.05.22-09.14.19:624][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.05.22-09.14.19:624][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.05.22-09.14.19:987][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.05.22-09.14.20:062][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.05.22-09.14.20:092][  0]LogInit: FAudioDevice initialized.
-[2018.05.22-09.14.20:245][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/student/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.05.22-09.14.20:264][  0]LogInit: Texture streaming: Enabled
-[2018.05.22-09.14.20:348][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.05.22-09.14.20:534][  0]LogInit: Transaction tracking system initialized
-[2018.05.22-09.14.20:998][  0]BlueprintLog: New page: Editor Load
-[2018.05.22-09.14.22:702][  0]LocalizationService: Localization service is disabled
-[2018.05.22-09.14.23:852][  0]LogConsoleResponse: Display: 
-[2018.05.22-09.14.25:221][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.05.22-09.14.25:221][  0]LogCook: Display: Mobile HDR setting 1
-[2018.05.22-09.14.25:233][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Content/' took 0.03s
-[2018.05.22-09.14.25:233][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.05.22-09.14.27:235][  0]SourceControl: Source control is disabled
-[2018.05.22-09.14.27:269][  0]Cmd: MAP LOAD FILE="../../../../LagProject/Game/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.05.22-09.14.27:274][  0]LightingResults: New page: Lighting Build
-[2018.05.22-09.14.27:462][  0]MapCheck: New page: Map Check
-[2018.05.22-09.14.27:462][  0]LightingResults: New page: Lighting Build
-[2018.05.22-09.14.28:534][  0]LogAIModule: Creating AISystem for world NewMap
-[2018.05.22-09.14.28:842][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.05.22-09.14.28:918][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.05.22-09.14.29:112][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 194.219ms to complete.
-[2018.05.22-09.14.29:112][  0]LogFileHelpers: Loading map 'NewMap' took 1.859
-[2018.05.22-09.14.30:302][  0]LogCollectionManager: Loaded 0 collections in 0.002892 seconds
-[2018.05.22-09.14.30:504][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Saved/Collections/' took 0.01s
-[2018.05.22-09.14.30:504][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Content/Developers/student/Collections/' took 0.01s
-[2018.05.22-09.14.30:504][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Content/Collections/' took 0.01s
-[2018.05.22-09.14.30:504][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.05.22-09.14.30:517][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2363 classes and 519 folders.
-[2018.05.22-09.14.30:636][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.05.22-09.14.31:188][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
-[2018.05.22-09.14.31:326][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.05.22-09.14.33:457][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Game
-[2018.05.22-09.14.33:457][  0]LogTemp: CWD: D:\Lag\UE_4.18\Engine\Binaries\DotNET\IOS
-[2018.05.22-09.14.33:457][  0]LogTemp: Initial Dir: D:\Lag\UE_4.18
-[2018.05.22-09.14.33:457][  0]LogTemp: Env CWD: D:\Lag\UE_4.18\Engine\Binaries\DotNET\IOS
-[2018.05.22-09.14.33:457][  0]LogTemp: BranchPath = FMK-90008899/D/Lag/UE_4.18/Engine/Binaries --- GameBranchPath = FMK-90008899/D/Lag/UE_4.18/Engine/Binaries
-[2018.05.22-09.14.33:457][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2018.05.22-09.14.33:539][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\student\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
-[2018.05.22-09.14.33:539][  0]LogSlate: Took 0.012960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.05.22-09.14.33:571][  0]LogSlate: Took 0.014323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.05.22-09.14.33:596][  0]LogSlate: Took 0.007198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.05.22-09.14.33:953][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.05.22-09.14.34:510][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.05.22-09.14.34:510][  0]LogLoad: (Engine Initialization) Total time: 53.14 seconds
-[2018.05.22-09.14.34:510][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.05.22-09.14.34:516][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2018.05.22-09.14.34:971][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.05.22-09.14.35:295][  1]LogSlate: Took 0.021161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.05.22-09.14.35:566][  2]LogAssetRegistry: Asset discovery search completed in 31.6721 seconds
-[2018.05.22-09.14.35:572][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.05.22-09.14.35:572][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
-[2018.05.22-09.14.35:881][  3]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.05.22-09.16.58:114][304]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.05.22-09.16.58:594][304]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
-[2018.05.22-09.16.59:619][304]LogSlate: Took 0.013819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.05.22-09.16.59:881][305]LogSlate: Took 0.001697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.05.22-09.25.16:839][416]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.05.22-09.25.16:839][416]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.22-13.07.05:716][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.22-13.07.05:716][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.22-13.07.05:756][  0]LogInit: Computer: FMK-90008899
+[2018.05.22-13.07.05:756][  0]LogInit: User: student
+[2018.05.22-13.07.05:756][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.22-13.07.05:756][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2018.05.22-13.07.05:756][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.22-13.07.05:756][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.22-13.07.05:756][  0]LogMemory: Process Physical Memory: 272.54 MB used, 272.54 MB peak
+[2018.05.22-13.07.05:756][  0]LogMemory: Process Virtual Memory: 270.73 MB used, 270.73 MB peak
+[2018.05.22-13.07.05:756][  0]LogMemory: Physical Memory: 4559.65 MB used,  11779.43 MB free, 16339.08 MB total
+[2018.05.22-13.07.05:756][  0]LogMemory: Virtual Memory: 645.20 MB used,  11779.43 MB free, 134217728.00 MB total
+[2018.05.22-13.07.06:007][  0]LogInit: Using OS detected language (sk-SK).
+[2018.05.22-13.07.06:007][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.22-13.07.06:139][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en' will be used for the language.
+[2018.05.22-13.07.06:680][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.22-13.07.07:412][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.22-13.07.07:456][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.05.22-13.07.07:456][  0]LogD3D11RHI:       1972/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.22-13.07.07:457][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.22-13.07.07:457][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.22-13.07.07:457][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.22-13.07.07:465][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.22-13.07.07:465][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.22-13.07.07:465][  0]LogWindows: EnumDisplayDevices:
+[2018.05.22-13.07.07:465][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.05.22-13.07.07:465][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.22-13.07.07:465][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.22-13.07.07:465][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.22-13.07.07:466][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.05.22-13.07.07:466][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.05.22-13.07.07:466][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2018.05.22-13.07.07:466][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2018.05.22-13.07.07:466][  0]LogRHI: Texture pool is 1380 MB (70% of 1972 MB)
+[2018.05.22-13.07.07:495][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.22-13.07.07:505][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.22-13.07.07:554][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (../../../../LagProject/Game/Intermediate/Shaders/WorkingDirectory/8900/).
+[2018.05.22-13.07.07:554][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/student/AppData/Local/Temp/UnrealShaderWorkingDir/8FC46580477EE468B91609A90D62821C/'.
+[2018.05.22-13.07.07:554][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.22-13.07.09:020][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.22-13.07.09:054][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.22-13.07.09:084][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.22-13.07.09:116][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.22-13.07.09:163][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.22-13.07.09:195][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.22-13.07.09:229][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.22-13.07.09:259][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.22-13.07.09:286][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.22-13.07.09:317][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.22-13.07.09:349][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.22-13.07.09:379][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.22-13.07.09:409][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.22-13.07.09:440][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.22-13.07.09:519][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.22-13.07.09:519][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.22-13.07.09:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.22-13.07.09:583][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.22-13.07.09:681][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.22-13.07.09:700][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.22-13.07.09:736][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.22-13.07.09:767][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.22-13.07.09:798][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.22-13.07.09:858][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.22-13.07.09:858][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.22-13.07.10:444][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.22-13.07.10:892][  0]LogDerivedDataCache: Loaded boot cache 0.45s 78MB C:/Users/student/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.22-13.07.10:892][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/student/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.22-13.07.10:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../LagProject/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.22-13.07.10:892][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.22-13.07.10:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../LagProject/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.22-13.07.10:892][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.22-13.07.10:905][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.22-13.07.10:918][  0]LogDerivedDataCache: Using Local data cache path C:/Users/student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.22-13.07.10:926][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.22-13.07.10:926][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.22-13.07.10:983][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.22-13.07.10:983][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.22-13.07.13:255][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.22-13.07.13:564][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.22-13.07.13:587][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.22-13.07.13:587][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.22-13.07.13:587][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.22-13.07.13:587][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.22-13.07.13:587][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.22-13.07.13:609][  0]LogNetVersion: Game , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1359646243)
+[2018.05.22-13.07.13:747][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.05.22-13.07.14:110][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.024764 seconds
+[2018.05.22-13.07.14:116][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.22-13.07.14:116][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.05.22-13.07.14:116][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.22-13.07.14:150][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.22-13.07.18:932][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.22-13.07.18:977][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.22-13.07.19:562][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.22-13.07.19:886][  0]SourceControl: Source control is disabled
+[2018.05.22-13.07.19:886][  0]SourceControl: Source control is disabled
+[2018.05.22-13.07.19:934][  0]SourceControl: Source control is disabled
+[2018.05.22-13.07.19:980][  0]SourceControl: Source control is disabled
+[2018.05.22-13.07.20:691][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.22-13.07.20:930][  0]LogOcInput: OculusInput pre-init called
+[2018.05.22-13.07.21:193][  0]LogEngine: Initializing Engine...
+[2018.05.22-13.07.21:195][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.22-13.07.21:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.22-13.07.21:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.22-13.07.21:484][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.22-13.07.21:492][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-13.07.21:503][  0]LogInit: FAudioDevice initialized.
+[2018.05.22-13.07.21:591][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/student/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.22-13.07.21:602][  0]LogInit: Texture streaming: Enabled
+[2018.05.22-13.07.21:676][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.22-13.07.21:749][  0]LogInit: Transaction tracking system initialized
+[2018.05.22-13.07.21:973][  0]BlueprintLog: New page: Editor Load
+[2018.05.22-13.07.22:738][  0]LocalizationService: Localization service is disabled
+[2018.05.22-13.07.23:344][  0]LogConsoleResponse: Display: 
+[2018.05.22-13.07.23:581][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.22-13.07.23:581][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.22-13.07.23:581][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.22-13.07.24:047][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Content/' took 0.01s
+[2018.05.22-13.07.24:759][  0]SourceControl: Source control is disabled
+[2018.05.22-13.07.24:759][  0]Cmd: MAP LOAD FILE="../../../../LagProject/Game/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.22-13.07.24:759][  0]LightingResults: New page: Lighting Build
+[2018.05.22-13.07.24:784][  0]MapCheck: New page: Map Check
+[2018.05.22-13.07.24:784][  0]LightingResults: New page: Lighting Build
+[2018.05.22-13.07.24:971][  0]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-13.07.24:984][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.22-13.07.24:994][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.22-13.07.25:083][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.256ms to complete.
+[2018.05.22-13.07.25:083][  0]LogFileHelpers: Loading map 'NewMap' took 0.324
+[2018.05.22-13.07.25:259][  0]LogCollectionManager: Loaded 0 collections in 0.000672 seconds
+[2018.05.22-13.07.25:324][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Saved/Collections/' took 0.01s
+[2018.05.22-13.07.25:324][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Content/Developers/student/Collections/' took 0.01s
+[2018.05.22-13.07.25:324][  0]LogFileCache: Scanning file cache for directory 'D:/Lag/LagProject/Game/Content/Collections/' took 0.01s
+[2018.05.22-13.07.25:324][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.22-13.07.25:332][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2363 classes and 519 folders.
+[2018.05.22-13.07.25:369][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.22-13.07.25:717][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.22-13.07.25:775][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.22-13.07.26:869][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.22-13.07.26:908][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Game
+[2018.05.22-13.07.26:908][  0]LogTemp: CWD: D:\Lag\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.22-13.07.26:908][  0]LogTemp: Initial Dir: D:\Lag\UE_4.18
+[2018.05.22-13.07.26:908][  0]LogTemp: Env CWD: D:\Lag\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.22-13.07.26:908][  0]LogTemp: BranchPath = FMK-90008899/D/Lag/UE_4.18/Engine/Binaries --- GameBranchPath = FMK-90008899/D/Lag/UE_4.18/Engine/Binaries
+[2018.05.22-13.07.26:908][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\student\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.22-13.07.26:959][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.22-13.07.26:959][  0]LogLoad: (Engine Initialization) Total time: 27.18 seconds
+[2018.05.22-13.07.26:959][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.22-13.07.26:959][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.22-13.07.26:989][  0]LogAssetRegistry: Asset discovery search completed in 13.2648 seconds
+[2018.05.22-13.07.26:991][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.22-13.07.26:991][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.05.22-13.07.26:994][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.22-13.07.27:002][  0]LogSlate: Took 0.000704 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.22-13.07.27:009][  0]LogSlate: Took 0.005614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.22-13.07.27:022][  0]LogSlate: Took 0.009331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.22-13.07.27:097][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
+[2018.05.22-13.07.27:147][  0]LogRenderer: Reallocating scene render targets to support 700x360 Format 10 NumSamples 1 (Frame:1).
+[2018.05.22-13.07.27:147][  0]LogSlate: Took 0.003345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.22-13.07.27:987][ 92]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.22-13.07.32:553][586]LogRenderer: Reallocating scene render targets to support 1056x576 Format 10 NumSamples 1 (Frame:588).
+[2018.05.22-13.07.34:171][777]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.22-13.07.34:203][777]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2018.05.22-13.07.34:284][777]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.22-13.07.34:478][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.05.22-13.07.34:693][777]LogSlate: Took 0.001204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.22-13.07.34:766][777]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.05.22-13.07.36:416][914]LogRenderer: Reallocating scene render targets to support 1056x888 Format 10 NumSamples 1 (Frame:159).
+[2018.05.22-13.21.49:092][951]LogHttp: Warning: 0000023084834400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.21.49:092][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2308404ffb8 [can pipeline])
+[2018.05.22-13.21.49:092][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2018.05.22-13.21.49:092][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.170.31.121) port 443 (#3))
+[2018.05.22-13.21.49:092][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.05.22-13.21.49:093][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.05.22-13.21.49:093][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.05.22-13.21.49:093][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 6 (Closing connection 3)
+[2018.05.22-13.21.49:093][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB9FA9945-46BC-BF71-191F-7CAE5CFD3C50%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=94fd03c44f93cd03b24a6d8196eeb72b%7Cafa4e66ea8a34584bddb98ab23c5cf4c%7C25b6d026-4f59-4789-bc5f-f10de171d1c8&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.05.22-13.21.49:093][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.21.49:093][951]LogHttp: Warning: 0000023084834400: libcurl info message cache 9 (Closing connection 4)
+[2018.05.22-13.23.45:596][597]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.05.22-13.23.46:153][597]LogSlate: Took 0.000453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.22-13.23.46:286][598]LogSlate: Took 0.005834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.22-13.23.47:624][754]LogRenderer: Reallocating scene render targets to support 1144x900 Format 10 NumSamples 1 (Frame:1).
+[2018.05.22-13.23.55:210][633]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.23.55:797][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.23.55:843][667]LogSavePackage: Save=42.19ms
+[2018.05.22-13.23.55:843][667]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BP84B3CFC24E67CAEBBDBA45AD85B15C4F.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.23.55:844][667]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.24.00:144][176]LogHttp: Warning: 00000230B0E16E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.24.00:144][176]LogHttp: Warning: 00000230B0E16E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.24.00:144][176]LogHttp: Warning: 00000230B0E16E00: libcurl info message cache 1 (Closing connection 5)
+[2018.05.22-13.24.59:214][181]LogEditorTransaction: Undo Modify Component(s)
+[2018.05.22-13.24.59:296][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.05.22-13.25.00:916][327]LogEditorTransaction: Undo Modify Component(s)
+[2018.05.22-13.25.00:998][327]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.05.22-13.25.18:880][390]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.25.19:528][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.25.19:572][425]LogSavePackage: Save=40.16ms
+[2018.05.22-13.25.19:572][425]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BPD1E97C514837F1D34C1A25B141FDC739.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.25.19:573][425]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.25.21:194][619]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-13.25.21:269][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-13.25.21:269][619]PIE: New page: PIE session: NewMap (May 22, 2018, 3:25:21 PM)
+[2018.05.22-13.25.21:269][619]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-13.25.21:274][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004478s)
+[2018.05.22-13.25.21:274][619]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-13.25.21:275][619]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2018.05.22-13.25.21:275][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005408s)
+[2018.05.22-13.25.21:296][619]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-13.25.21:302][619]LogInit: FAudioDevice initialized.
+[2018.05.22-13.25.21:349][619]LogLinker: Warning: Can't find file '/Game/Blueprints/GameMode/MainGameMode'
+[2018.05.22-13.25.21:349][619]LogLinker: Warning: Can't find file '/Game/Blueprints/GameMode/MainGameMode'
+[2018.05.22-13.25.21:349][619]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/GameMode/MainGameMode.MainGameMode_C'
+[2018.05.22-13.25.21:349][619]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-13.25.21:351][619]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-14.25.21
+[2018.05.22-13.25.21:351][619]LogWorld: Bringing up level for play took: 0.000903
+[2018.05.22-13.25.21:375][619]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.05.22-13.25.21:377][619]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.831
+[2018.05.22-13.25.21:407][619]LogRenderer: Reallocating scene render targets to support 1292x900 Format 10 NumSamples 1 (Frame:1).
+[2018.05.22-13.25.36:295][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.25.36:326][376]LogSavePackage: Save=28.43ms
+[2018.05.22-13.25.36:326][376]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BPF3A88BA54BD01B136AC75D99175BEEA0.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.25.36:326][376]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.26.00:477][597]LogHttp: Warning: 00000230B0A01D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.26.00:477][597]LogHttp: Warning: 00000230B0A01D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.26.00:477][597]LogHttp: Warning: 00000230B0A01D80: libcurl info message cache 1 (Closing connection 6)
+[2018.05.22-13.28.04:806][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.05.22-13.28.04:820][428]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.05.22-13.28.04:970][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.05.22-13.28.04:986][428]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.05.22-13.28.11:642][967]LogHttp: Warning: 00000230B0A01180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.28.11:642][967]LogHttp: Warning: 00000230B0A01180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.28.11:642][967]LogHttp: Warning: 00000230B0A01180: libcurl info message cache 1 (Closing connection 7)
+[2018.05.22-13.30.23:292][362]LogHttp: Warning: 000002305CA18880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.30.23:293][362]LogHttp: Warning: 000002305CA18880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.30.23:293][362]LogHttp: Warning: 000002305CA18880: libcurl info message cache 1 (Closing connection 8)
+[2018.05.22-13.32.23:694][546]LogHttp: Warning: 0000023064505180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.32.23:694][546]LogHttp: Warning: 0000023064505180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.32.23:694][546]LogHttp: Warning: 0000023064505180: libcurl info message cache 1 (Closing connection 9)
+[2018.05.22-13.32.49:057][649]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.014
+[2018.05.22-13.32.49:058][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PlayerBPs/PlayerCharacter_BP] ([1] browsable assets)...
+[2018.05.22-13.32.49:069][649]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerBPs/PlayerCharacter_BP.PlayerCharacter_BP]
+[2018.05.22-13.32.49:069][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerBPs/PlayerCharacter_BP]
+[2018.05.22-13.32.49:121][649]LogSavePackage: Save=48.17ms
+[2018.05.22-13.32.49:121][649]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BP_Auto16CC0CD6341337ECEEBFE428871E6B07C.tmp' to '../../../../LagProject/Game/Saved/Autosaves/Game/Blueprints/PlayerBPs/PlayerCharacter_BP_Auto1.uasset'
+[2018.05.22-13.32.49:121][649]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Saved/Autosaves/Game/Blueprints/PlayerBPs/PlayerCharacter_BP_Auto1.uasset
+[2018.05.22-13.32.49:121][649]LogFileHelpers: Auto-saving content packages took 0.063
+[2018.05.22-13.33.15:604][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.33.16:157][792]LogSavePackage: Save=42.18ms
+[2018.05.22-13.33.16:157][792]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BP1FDC4643400F7611F5A4D7953B533763.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.33.16:158][792]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.34.14:011][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.34.14:054][695]LogSavePackage: Save=41.09ms
+[2018.05.22-13.34.14:054][695]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BP23AE8E1342B7CFD1B30C41BADE8870E6.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.34.14:056][695]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.34.14:441][741]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.34.15:098][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.34.15:141][784]LogSavePackage: Save=41.72ms
+[2018.05.22-13.34.15:141][784]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BP700BF78848126841E3F609A819E9E14A.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.34.15:142][784]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.34.34:747][238]LogHttp: Warning: 000002307E1E2200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.34.34:747][238]LogHttp: Warning: 000002307E1E2200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.34.34:747][238]LogHttp: Warning: 000002307E1E2200: libcurl info message cache 1 (Closing connection 10)
+[2018.05.22-13.35.19:692][924]LogSlate: Took 0.010799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.22-13.35.21:804][172]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.35.22:168][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.35.22:204][182]LogSavePackage: Save=34.27ms
+[2018.05.22-13.35.22:204][182]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BPA0F43BB64F7AA36EF1E8BA9E033A0CAE.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.35.22:205][182]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.35.40:154][369]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.36.08:961][864]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.36.09:444][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.36.09:483][889]LogSavePackage: Save=36.66ms
+[2018.05.22-13.36.09:483][889]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BPCD8E61DB450BB8233E1BB9B336CAA8F9.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.36.09:484][889]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.36.34:778][976]LogHttp: Warning: 00000230CFA5A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.36.34:778][976]LogHttp: Warning: 00000230CFA5A200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.36.34:778][976]LogHttp: Warning: 00000230CFA5A200: libcurl info message cache 1 (Closing connection 11)
+[2018.05.22-13.37.26:294][781]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.37.26:800][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.37.26:839][809]LogSavePackage: Save=37.39ms
+[2018.05.22-13.37.26:839][809]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BPBF3D0813469B9DCA3C16EE969391E5AB.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.37.26:841][809]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.38.00:366][452]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.38.01:023][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.38.01:069][492]LogSavePackage: Save=42.74ms
+[2018.05.22-13.38.01:069][492]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BP972A4F2B4D77DEE6B2EEB5BB0B550363.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.38.01:070][492]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.38.35:198][608]LogHttp: Warning: 00000230BBA83E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.38.35:198][608]LogHttp: Warning: 00000230BBA83E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.38.35:198][608]LogHttp: Warning: 00000230BBA83E80: libcurl info message cache 1 (Closing connection 12)
+[2018.05.22-13.39.41:674][412]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.39.42:084][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.39.42:128][424]LogSavePackage: Save=41.37ms
+[2018.05.22-13.39.42:128][424]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BP7D0AA3004B93D04CCC839BB37045BDFA.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.39.42:129][424]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.40.07:004][795]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-13.40.07:016][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-13.40.07:016][795]PIE: New page: PIE session: NewMap (May 22, 2018, 3:40:07 PM)
+[2018.05.22-13.40.07:016][795]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-13.40.07:020][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003856s)
+[2018.05.22-13.40.07:020][795]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-13.40.07:021][795]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.05.22-13.40.07:021][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004777s)
+[2018.05.22-13.40.07:041][795]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-13.40.07:046][795]LogInit: FAudioDevice initialized.
+[2018.05.22-13.40.07:084][795]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-13.40.07:085][795]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-14.40.07
+[2018.05.22-13.40.07:085][795]LogWorld: Bringing up level for play took: 0.000742
+[2018.05.22-13.40.07:088][795]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.88
+[2018.05.22-13.40.27:899][204]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-13.40.27:910][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-13.40.27:910][204]PIE: New page: PIE session: NewMap (May 22, 2018, 3:40:27 PM)
+[2018.05.22-13.40.27:910][204]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-13.40.27:914][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004161s)
+[2018.05.22-13.40.27:915][204]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-13.40.27:915][204]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.05.22-13.40.27:915][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004924s)
+[2018.05.22-13.40.27:936][204]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-13.40.27:941][204]LogInit: FAudioDevice initialized.
+[2018.05.22-13.40.27:977][204]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-13.40.27:979][204]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-14.40.27
+[2018.05.22-13.40.27:979][204]LogWorld: Bringing up level for play took: 0.000758
+[2018.05.22-13.40.28:013][204]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.195
+[2018.05.22-13.40.35:234][ 51]LogHttp: Warning: 00000230F06C1D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.40.35:234][ 51]LogHttp: Warning: 00000230F06C1D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.40.35:234][ 51]LogHttp: Warning: 00000230F06C1D80: libcurl info message cache 1 (Closing connection 13)
+[2018.05.22-13.40.36:796][238]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-13.40.36:810][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-13.40.36:810][238]PIE: New page: PIE session: NewMap (May 22, 2018, 3:40:36 PM)
+[2018.05.22-13.40.36:810][238]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-13.40.36:815][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004673s)
+[2018.05.22-13.40.36:815][238]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-13.40.36:816][238]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2018.05.22-13.40.36:816][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005411s)
+[2018.05.22-13.40.36:841][238]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-13.40.36:845][238]LogInit: FAudioDevice initialized.
+[2018.05.22-13.40.36:881][238]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-13.40.36:882][238]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-14.40.36
+[2018.05.22-13.40.36:882][238]LogWorld: Bringing up level for play took: 0.000728
+[2018.05.22-13.40.36:886][238]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.678
+[2018.05.22-13.40.41:210][740]Cmd: SELECT NONE
+[2018.05.22-13.40.49:300][709]BlueprintLog: New page: Compile PlayerCharacter_BP
+[2018.05.22-13.40.49:889][746]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-13.40.49:901][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-13.40.49:901][746]PIE: New page: PIE session: NewMap (May 22, 2018, 3:40:49 PM)
+[2018.05.22-13.40.49:901][746]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.05.22-13.40.49:905][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003791s)
+[2018.05.22-13.40.49:906][746]LogAIModule: Creating AISystem for world NewMap
+[2018.05.22-13.40.49:906][746]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2018.05.22-13.40.49:906][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004718s)
+[2018.05.22-13.40.49:927][746]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.22-13.40.49:932][746]LogInit: FAudioDevice initialized.
+[2018.05.22-13.40.49:968][746]LogLoad: Game class is 'MainGameMode_BP_C'
+[2018.05.22-13.40.49:969][746]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.22-14.40.49
+[2018.05.22-13.40.49:969][746]LogWorld: Bringing up level for play took: 0.000648
+[2018.05.22-13.40.49:973][746]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.235
+[2018.05.22-13.41.10:482][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBPs/PlayerCharacter_BP" FILE="../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset" SILENT=true
+[2018.05.22-13.41.10:530][139]LogSavePackage: Save=45.42ms
+[2018.05.22-13.41.10:530][139]LogSavePackage: Moving '../../../../LagProject/Game/Saved/PlayerCharacter_BP3C736FC4471B2DD4E2A855876CB7A16A.tmp' to '../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset'
+[2018.05.22-13.41.10:532][139]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Blueprints/PlayerBPs/PlayerCharacter_BP.uasset
+[2018.05.22-13.41.23:288][645]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.05.22-13.42.46:298][109]LogHttp: Warning: 00000230F1D0C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.22-13.42.46:298][109]LogHttp: Warning: 00000230F1D0C100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.22-13.42.46:298][109]LogHttp: Warning: 00000230F1D0C100: libcurl info message cache 1 (Closing connection 14)
+[2018.05.22-13.43.18:176][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../LagProject/Game/Saved/Autosaves/Game/Maps/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.22-13.43.18:214][925]LogSavePackage: Save=34.51ms
+[2018.05.22-13.43.18:214][925]LogSavePackage: Moving '../../../../LagProject/Game/Saved/NewMap_Auto26AD25CC94988A264E38D03848775E31C.tmp' to '../../../../LagProject/Game/Saved/Autosaves/Game/Maps/NewMap_Auto2.umap'
+[2018.05.22-13.43.18:214][925]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Saved/Autosaves/Game/Maps/NewMap_Auto2.umap
+[2018.05.22-13.43.18:216][925]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.056
+[2018.05.22-13.43.18:216][925]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2018.05.22-13.44.22:233][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../LagProject/Game/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.22-13.44.22:282][283]LogSavePackage: Save=29.74ms
+[2018.05.22-13.44.22:282][283]LogSavePackage: Moving '../../../../LagProject/Game/Saved/NewMap45B4F1F94901F6933471D084A206C334.tmp' to '../../../../LagProject/Game/Content/Maps/NewMap.umap'
+[2018.05.22-13.44.22:284][283]LogSavePackage: Display: Finished SavePackage ../../../../LagProject/Game/Content/Maps/NewMap.umap
